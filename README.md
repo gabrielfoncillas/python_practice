@@ -1,1 +1,1 @@
-Practicing Python From Zero to Hero
+Maestering Python From Zero to Hero
